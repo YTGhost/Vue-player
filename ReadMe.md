@@ -1,4 +1,4 @@
-示例地址：http://182.92.66.200/
+示例地址：https://www.hihia.top/Vue-player/
 
 接口调用的网易云音乐 API
 
